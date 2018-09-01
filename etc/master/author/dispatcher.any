@@ -1,1 +1,7 @@
+# dispatcher instance name.
+/name "<dispatcher-name>"
 
+# farms
+/farms {
+    # including all farms here
+}
